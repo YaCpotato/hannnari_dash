@@ -23,7 +23,7 @@ eager-loading : true
 title : "Dashを使用した、データ分析用簡易ダッシュボード"
 description : "データ分析初期段階のインサイト補助のための簡易ダッシュボードアプリをplotly Dashを用いて開発中です"
 thumbnail : gitpitch_assets/img/screenshot.png
-
+##149DFF
 
 # Plugins
 charts : true
