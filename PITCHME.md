@@ -1,9 +1,9 @@
 ---
 
 ## Dashとはなんぞや
-![width=500](gitpitch_assets/plotlytutsplus.png)
+![width=200](gitpitch_assets/plotlytutsplus.png)
 
-a productive Python framework for building web applications
+> a productive Python framework for building web applications
 
 - FlaskベースのWebフレームワーク
 - Plotly.js, React.jsで動いている
