@@ -1,0 +1,30 @@
+# Layout
+layout : top-left
+
+# Look-and-Feel
+theme : night
+theme-override : PITCHME.css
+#logo : gitpitch_assets/images/logo.png
+highlight : mono-blue
+code-line-numbers : true
+background-opacity : 75
+footnote : "Twitter : @yasshi_dayooon"
+rtl : true
+
+# Behavior
+transition : none
+published : true
+print-fragments : true
+print-notes     : false
+print-footer    : true
+eager-loading : true
+
+# Fro Twitter Card And Other
+title : "Dashを使用した、データ分析用簡易ダッシュボード"
+description : "データ分析初期段階のインサイト補助のための簡易ダッシュボードアプリをplotly Dashを用いて開発中です"
+thumbnail : gitpitch_assets/img/screenshot.png
+
+
+# Plugins
+charts : true
+mathjax : TeX-AMS_HTML-full
