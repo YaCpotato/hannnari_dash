@@ -1,9 +1,5 @@
----
-
 ## Dashとはなんぞや
 ![width=300](gitpitch_assets/plotlydash.png)
-
-> a productive Python framework for building web applications
 
 - FlaskベースのWebフレームワーク
 - Plotly.js, React.jsで動いている
@@ -11,8 +7,47 @@
 
 ---
 
-@snap[east span-50]
-@box[bg-blue rounded box-padding]()
-@snapend
+### とはいえ,,,
 
 ---
+
+## ダッシュボードといえば優秀なBI環境がある
+
+- Tableau
+- Google Data Portal
+- Amazon QuickSight
+
++++
+
+### Tableau
+
+![width=300](gitpitch_assets/tableau.png)
+
+- 様々なデータ形式から分析、可視化、ダッシュボード作成、プレゼンまで可能
+    - pdf,csv,exel,データベースサーバー
+
+参考：https://www.tableau.com/
+
++++
+
+### Google Data Portal
+
+![width=300](gitpitch_assets/google-data-portal.png)
+
+- Google各種サービスの情報を一括閲覧可能
+    - Google Analytics
+    - Google Ad
+    - Google BigQuery
+
+参考：https://marketingplatform.google.com/intl/ja/about/data-studio/
+
+
++++
+
+### Amazon QuickSight
+
+![width=300](gitpitch_assets/AmazonQuickSight.png)
+
+- SageMakerを利用した高度なインサイト
+
+参考：https://aws.amazon.com/jp/quicksight/features/
