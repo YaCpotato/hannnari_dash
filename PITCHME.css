@@ -2,6 +2,14 @@ body {
     background-color: white;
 }
 
+blockquote {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+    padding:2px;
+    background-color: #9E9E9E;
+}
+
 .reveal h2 {
     font-size: 2em;
     color:black;
