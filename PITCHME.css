@@ -38,3 +38,11 @@ body {
 .reveal h6 {
     font-size: 0.75em;
 }
+
+.reveal li {
+    font-size: 20px;
+}
+
+.reveal p {
+    font-size: 20px;
+}
