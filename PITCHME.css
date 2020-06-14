@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+}
+
+.reveal h2 {
+    font-size: 2em;
+    color:black;
+    font-weight: bold;
+}
+
+:after h2 {
+    display: block;
+    height: 4px;
+    background: -webkit-linear-gradient(to right, #FFFFFF, transparent);
+    background: linear-gradient(to right, #FFFFFF, transparent);
+}
+
+.reveal h3 {
+    font-size: 1.5em;
+}
+
+.reveal h4 {
+    font-size: 1.125em;
+}
+
+.reveal h5 {
+    font-size: 1em;
+}
+
+.reveal h6 {
+    font-size: 0.75em;
+}

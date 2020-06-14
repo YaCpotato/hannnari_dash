@@ -2,7 +2,7 @@
 layout : top-left
 
 # Look-and-Feel
-theme : night
+theme : template
 theme-override : PITCHME.css
 #logo : gitpitch_assets/images/logo.png
 highlight : mono-blue

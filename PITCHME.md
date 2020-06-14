@@ -1,7 +1,7 @@
 ---
 
 ## Dashとはなんぞや
-![Dash logo](gitpitch_assets/plotlytutsplus.png)
+![width=500](gitpitch_assets/plotlytutsplus.png)
 
 a productive Python framework for building web applications
 
