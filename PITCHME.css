@@ -2,12 +2,12 @@ body {
     background-color: white;
 }
 
-.reveal blockquote {
+.reveal blockquote > .reveal p {
     margin-top: 1rem;
     margin-bottom: 1rem;
     margin-left: 2rem;
     padding:2px;
-    background-color: #9E9E9E;
+    background-color: #EEEEEE;
 }
 
 .reveal h2 {
