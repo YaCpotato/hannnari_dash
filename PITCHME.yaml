@@ -9,7 +9,6 @@ highlight : mono-blue
 code-line-numbers : true
 background-opacity : 75
 footnote : "Twitter : @yasshi_dayooon"
-rtl : true
 
 # Behavior
 transition : none

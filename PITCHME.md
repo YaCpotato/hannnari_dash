@@ -1,11 +1,18 @@
 ---
 
-# Long time no see! Gitpitch
+## Dashとはなんぞや
+![Dash logo](gitpitch_assets/plotlytutsplus.png)
+
+a productive Python framework for building web applications
+
+- FlaskベースのWebフレームワーク
+- Plotly.js, React.jsで動いている
+- データ、グラフの可視化、ダッシュボード作成に特化
 
 ---
 
-@snap[south-west span-35]
-@box[bg-blue text-white waved box-padding](4. Repeat#Ut enim ad minim veniam prodient)
+@snap[east span-50]
+@box[bg-blue rounded box-padding]()
 @snapend
 
 ---
