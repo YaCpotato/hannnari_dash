@@ -32,9 +32,9 @@
 
 ### Google Data Portal
 
-![width=300](gitpitch_assets/google-data-portal.png)
+![width=300](gitpitch_assets/google-data-portal.png)  
 
-- Google各種サービスの情報を一括閲覧可能
+Google各種サービスの情報を一括閲覧可能
     - Google Analytics
     - Google Ad
     - Google BigQuery
@@ -46,11 +46,11 @@
 
 ### Amazon QuickSight
 
-![width=300](gitpitch_assets/AmazonQuickSight.png)
+![width=100](gitpitch_assets/AmazonQuickSight.png)  
 
 - 高性能計算エンジン「SPICE」
 - SageMakerを利用した高度なインサイト
-- AWS各種サービス、外部等から分析が開始できる
+AWS各種サービス、外部等から分析が開始できる
     - S3
     - Athena
     - Salesforce
@@ -61,7 +61,7 @@
 
 +++
 
-![width=8000](gitpitch_assets/aq_operation.png)
+![width=1000](gitpitch_assets/aq_operation.png)
 
 +++
 
