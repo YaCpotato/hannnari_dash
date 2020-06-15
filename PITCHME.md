@@ -55,4 +55,15 @@
     - Athena
     - Salesforce
 
++++
+
+![width=1000](gitpitch_assets/aq_dataset_menu.png)
+
++++
+
+![width=8000](gitpitch_assets/aq_operation.png)
+
++++
+
+
 参考：https://aws.amazon.com/jp/quicksight/features/
