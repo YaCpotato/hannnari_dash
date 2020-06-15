@@ -23,10 +23,10 @@
 
 ![width=300](gitpitch_assets/tableau.png)
 
-- 様々なデータ形式から分析、可視化、ダッシュボード作成、プレゼンまで可能
+- 様々な形式から分析、可視化、ダッシュボード、プレゼンまで可能
 - pdf,csv,exel,データベースサーバー
 
-参考：https://www.tableau.com/
+[参考](https://www.tableau.com/)
 
 +++
 
@@ -35,10 +35,11 @@
 ![width=300](gitpitch_assets/google-data-portal.png)  
 
 Google各種サービスの情報を一括閲覧可能
+
 - Google Analytics
 - Google BigQuery
 
-[参考リンク](https://marketingplatform.google.com/intl/ja/about/data-studio/)
+[参考](https://marketingplatform.google.com/intl/ja/about/data-studio/)
 
 
 +++
@@ -49,11 +50,13 @@ Google各種サービスの情報を一括閲覧可能
 
 - 高性能計算エンジン「SPICE」
 - SageMakerを利用した高度なインサイト
-AWS各種サービス、外部等から分析が開始できる
+
+AWS各種サービス、外部等から分析が開始できる  
+
 - S3
 - Salesforce
 
-[参考リンク](https://aws.amazon.com/jp/quicksight/features/)
+[参考](https://aws.amazon.com/jp/quicksight/features/)
 
 
 +++
