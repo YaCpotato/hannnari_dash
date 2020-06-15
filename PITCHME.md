@@ -48,6 +48,11 @@
 
 ![width=300](gitpitch_assets/AmazonQuickSight.png)
 
+- 高性能計算エンジン「SPICE」
 - SageMakerを利用した高度なインサイト
+- AWS各種サービス、外部等から分析が開始できる
+    - S3
+    - Athena
+    - Salesforce
 
 参考：https://aws.amazon.com/jp/quicksight/features/
