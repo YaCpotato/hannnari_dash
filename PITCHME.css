@@ -45,3 +45,7 @@ body {
 .reveal p {
     font-size: 1.25em;
 }
+
+.reveal a {
+    font-size: 0.75em;
+}
