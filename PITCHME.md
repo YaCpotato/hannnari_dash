@@ -36,10 +36,9 @@
 
 Google各種サービスの情報を一括閲覧可能
     - Google Analytics
-    - Google Ad
     - Google BigQuery
 
-参考：https://marketingplatform.google.com/intl/ja/about/data-studio/
+[参考リンク](https://marketingplatform.google.com/intl/ja/about/data-studio/)
 
 
 +++
@@ -52,8 +51,10 @@ Google各種サービスの情報を一括閲覧可能
 - SageMakerを利用した高度なインサイト
 AWS各種サービス、外部等から分析が開始できる
     - S3
-    - Athena
     - Salesforce
+
+[参考リンク](https://aws.amazon.com/jp/quicksight/features/)
+
 
 +++
 
@@ -64,6 +65,3 @@ AWS各種サービス、外部等から分析が開始できる
 ![width=1000](gitpitch_assets/aq_operation.png)
 
 +++
-
-
-参考：https://aws.amazon.com/jp/quicksight/features/
