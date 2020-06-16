@@ -32,7 +32,7 @@
 
 ### Google Data Portal
 
-![width=300](gitpitch_assets/google-data-portal.png)  
+![width=300](gitpitch_assets/google-data-portal.png)
 
 Google各種サービスの情報を一括閲覧可能
 
@@ -41,6 +41,9 @@ Google各種サービスの情報を一括閲覧可能
 
 [参考](https://marketingplatform.google.com/intl/ja/about/data-studio/)
 
++++
+
+![width=1000](gitpitch_assets/GoogleDataPortal.png)
 
 +++
 
