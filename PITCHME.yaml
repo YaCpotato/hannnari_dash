@@ -4,6 +4,8 @@ layout : top-left
 # Look-and-Feel
 theme : template
 theme-override : PITCHME.css
+theme-headline : [ "Raleway", "#5289F7", "none", "#5289F7", "100", "120", "15" ]
+theme-byline   : [ "Raleway", "#111111", "none", "#111111", "100", "110", "15" ]
 #logo : gitpitch_assets/images/logo.png
 highlight : mono-blue
 code-line-numbers : true
