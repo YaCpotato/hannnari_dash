@@ -4,3 +4,5 @@ lib/
 pyvenv.cfg
 etc/
 share/
+
+gitpitch_assets/fonts/
