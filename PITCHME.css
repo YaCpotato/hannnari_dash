@@ -1,6 +1,5 @@
 body {
     background-color: white;
-    font-family: MPLUS1p-Regular;
 }
 
 .reveal blockquote  {
@@ -13,10 +12,11 @@ body {
 
 .reveal h2 {
     font-size: 2em;
+    font-family: MPLUS1p-Regular;
     color:black;
 }
 
-:after h2 {
+:after .reveal h2 {
     display: block;
     height: 4px;
     background: -webkit-linear-gradient(to right, #FFFFFF, transparent);
@@ -25,28 +25,35 @@ body {
 
 .reveal h3 {
     font-size: 1.5em;
+    font-family: MPLUS1p-Regular;
 }
 
 .reveal h4 {
     font-size: 1.125em;
+    font-family: MPLUS1p-Regular;
 }
 
 .reveal h5 {
     font-size: 1em;
+    font-family: MPLUS1p-Regular;
 }
 
 .reveal h6 {
     font-size: 0.75em;
+    font-family: MPLUS1p-Regular;
 }
 
 .reveal li {
     font-size: 1.25em;
+    font-family: MPLUS1p-Regular;
 }
 
 .reveal p {
     font-size: 1.25em;
+    font-family: MPLUS1p-Regular;
 }
 
 .reveal a {
     font-size: 0.75em;
+    font-family: MPLUS1p-Regular;
 }
