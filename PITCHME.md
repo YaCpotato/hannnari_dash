@@ -1,4 +1,4 @@
-# Dash製のデータ分析簡易ダッシュボードを作りたい
+## Dash製のデータ分析簡易ダッシュボードを作りたい
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-## ダッシュボードといえば優秀なBI環境がある
+## すでに優秀な環境がある
 
 - Tableau
 - Google Data Portal
@@ -27,7 +27,7 @@
 
 ![width=300](gitpitch_assets/tableau.png)
 
-- 様々な形式から分析、可視化、ダッシュボード、プレゼンまで可能
+- 様々な形式から分析、可視化、ダッシュボード、プレゼン
 - pdf,csv,exel,データベースサーバー
 
 [参考](https://www.tableau.com/)
@@ -56,12 +56,8 @@ Google各種サービスの情報を一括閲覧可能
 ![width=100](gitpitch_assets/AmazonQuickSight.png)  
 
 - 高性能計算エンジン「SPICE」
-- SageMakerを利用した高度なインサイト
-
-AWS各種サービス、外部等から分析が開始できる  
-
-- S3
-- Salesforce
+- SageMakerによる高度なインサイト
+- S3, Salesforce等から分析可能
 
 [参考](https://aws.amazon.com/jp/quicksight/features/)
 
