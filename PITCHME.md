@@ -1,6 +1,6 @@
 ## Dash製のデータ分析簡易ダッシュボードを作りたい
 
----?gitpitch_assets/plotlydash.png&position=right&size=55% 100%
+---?image=gitpitch_assets/plotlydash.png&position=right&size=55% 100%
 
 ## Dashとはなんぞや
 
