@@ -1,9 +1,8 @@
 ## Dash製のデータ分析簡易ダッシュボードを作りたい
 
----
+---?gitpitch_assets/plotlydash.png&position=right&size=55% 100%
 
 ## Dashとはなんぞや
-![width=300](gitpitch_assets/plotlydash.png)
 
 - FlaskベースのWebフレームワーク
 - Plotly.js, React.jsで動いている
@@ -38,7 +37,7 @@
 
 ![width=300](gitpitch_assets/google-data-portal.png)
 
-Google各種サービスの情報を一括閲覧可能
+Googleサービスの情報を一括閲覧可能
 
 - Google Analytics
 - Google BigQuery
