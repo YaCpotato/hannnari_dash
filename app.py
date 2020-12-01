@@ -43,10 +43,7 @@ content = html.Div(id="page-content")
 app.layout = html.Div([
     dcc.Tabs(id='tabs', value='tab-1', children=[
         dcc.Tab(label='データソース', value='tab-1'),
-        dcc.Tab(label='グラフ', value='tab-2'),
-        dcc.Tab(label='フリープロット', value='tab-3',children=[
-            html.Div([dcc.Location(id="url"),  content])
-        ]),
+        dcc.Tab(label='グラフビュー', value='tab-2'),
     ]),
     html.Div(id='tabs-content')
 ])
@@ -65,7 +62,6 @@ def render_content(tab):
         ])
     elif tab == 'tab-2':
         return html.Div([
-            # dcc.Graph( id = "heatmap", figure = go.Figure( data = [go.Heatmap(x=boston_df.columns,y=boston_df.columns,z=corr,colorscale='RdBu',reversescale=True)]) )
             dcc.Graph( 
                 figure = ff.create_annotated_heatmap(
                     z = np.round(corr.values, decimals=2),
